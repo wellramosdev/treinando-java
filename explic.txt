@@ -1,0 +1,9 @@
+Crar uma APISRestfull para controle de produto 
+
+
+Modelo:
+Produto: id, nome, quantidade, valor, observacao
+
+Repositorio de produto:
+    obterTodos, obterporId, adicionar, atualizar, deletar
+
