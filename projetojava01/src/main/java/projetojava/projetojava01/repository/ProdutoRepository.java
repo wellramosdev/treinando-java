@@ -17,5 +17,9 @@ public List<Produto> obterTodos(){
 
 }
 
-
+public Produto obterporId (integer id){
+    return Produto
+    .stream()
+    .filter(produto -> produto)
+}
 }
